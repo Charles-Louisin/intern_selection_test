@@ -1,0 +1,18 @@
+{
+  "name": "test-afb",
+  "version": "1.0.0",
+  "description": "Books management API",
+  "main": "Task3(bookApp).js",
+  "scripts": {
+    "start": "node Task3(bookApp).js"
+  },
+  "author": "Yimbne Nyemb Charles Louisin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.18.2",
+    "mongoose": "^8.9.6"
+  }
+}
